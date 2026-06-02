@@ -1,6 +1,6 @@
 # Paulo Emilio 
 
-**Backend Developer** | Backend Developer | Java · Spring Boot · REST APIs · PostgreSQL | React 
+**Fullstack Developer** | Java · Spring Boot · REST APIs · PostgreSQL | React · Typescript
 
 Based in Florianópolis, SC 
 
