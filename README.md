@@ -35,7 +35,6 @@ Git · GitHub · Swagger · pgAdmin · Docker · Vercel · Oracle Cloud Infrastr
 
 * Degree in Systems Analysis and Development — UNINTER (2025–2029)
 * Back-End Java Specialization — ONE Oracle Next Education + Alura (2025–2026)
-* Bachelor's Degree in Music — UDESC (2016–2022)
 
 ---
 
