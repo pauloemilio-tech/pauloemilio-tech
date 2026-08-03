@@ -33,6 +33,7 @@ Git · GitHub · Swagger · pgAdmin · Docker · Vercel · Oracle Cloud Infrastr
 
 ## 🎓 Education
 
+* Technology Degree in Systems Analysis and Development — Estácio (2026–2029)
 * Software Development — SENAI/SC (2026–2027)
 * Back-End Java Specialization — ONE Oracle Next Education + Alura (2025–2026)
 
