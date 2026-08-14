@@ -27,7 +27,6 @@ Git · GitHub · Swagger · pgAdmin · Docker · Vercel · Oracle Cloud Infrastr
 | **Spendly Frontend** | Personal finance frontend with authentication, protected routes, wallet management, transactions and financial dashboard | React, TypeScript, Vite, Tailwind CSS, Vercel          | [Repo](https://github.com/paulojrtoledo/spendly-frontend) · [Live Demo](https://spendly-fawn.vercel.app)          |
 | **RendaFlex**        | Financial health platform for variable-income users, with financial analysis, expense simulation and recommendations     | React, TypeScript, Java, Spring Boot, Python           | [Repo](https://github.com/No-Country-simulation/G9-BR-Team05.git) · [Live Demo](https://rendaflex.vercel.app)     |
 | **Nature Tech**      | Full-stack e-commerce application with product catalog, REST API integration and responsive interface                    | Java, Spring Boot, React, TypeScript                   | [Repo](https://github.com/paulojrtoledo/ecommerce-project) · [Live Demo](https://nature-tech.vercel.app/)         |
-| **Acorde**           | Collaborative social platform developed with a modern React and Next.js architecture                                     | Next.js, React, TypeScript                             | [Repo](https://github.com/Acorde-Social/acorde-front)                                                             |
 
 ---
 
