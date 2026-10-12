@@ -12,7 +12,7 @@ Based in Florianópolis, SC
 Java 17 · Spring Boot · Spring Security · JWT · JPA/Hibernate · PostgreSQL · REST APIs · Flyway · Maven
 
 **Front-End**
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · Material-UI
+React · Angular · Next.js · TypeScript · JavaScript · Tailwind CSS · Material-UI
 
 **Tools**
 Git · GitHub · Swagger · pgAdmin · Docker · Vercel · Oracle Cloud Infrastructure
@@ -23,9 +23,8 @@ Git · GitHub · Swagger · pgAdmin · Docker · Vercel · Oracle Cloud Infrastr
 
 | Project              | Description                                                                                                              | Stack                                                  | Link                                                                                                              |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| **Spendly Backend**  | Personal finance REST API with authentication, wallets, transactions, business rules and financial dashboard             | Java, Spring Boot, PostgreSQL, JWT, Docker, OCI, Neon | [Repo](https://github.com/paulojrtoledo/spendly-backend)                                                           |
-| **Spendly Frontend** | Personal finance frontend with authentication, protected routes, wallet management, transactions and financial dashboard | React, TypeScript, Vite, Tailwind CSS, Vercel          | [Repo](https://github.com/paulojrtoledo/spendly-frontend) · [Live Demo](https://spendly-fawn.vercel.app)          |
 | **RendaFlex**        | Financial health platform for variable-income users, with financial analysis, expense simulation and recommendations     | React, TypeScript, Java, Spring Boot, Python           | [Repo](https://github.com/No-Country-simulation/G9-BR-Team05.git) · [Live Demo](https://rendaflex.vercel.app)     |
+| **OpsPilot**         | AI-assisted operational intelligence for B2B account management                                                          | Angular, TypeScript, Java, Spring Boo, PostGreSQL      | [Repo](https://github.com/pauloemilio-tech/opsPilot)                                                              |
 | **Nature Tech**      | Full-stack e-commerce application with product catalog, REST API integration and responsive interface                    | Java, Spring Boot, React, TypeScript                   | [Repo](https://github.com/paulojrtoledo/ecommerce-project) · [Live Demo](https://nature-tech.vercel.app/)         |
 
 ---
